@@ -6,7 +6,6 @@ This Python-based Discord bot uses discord.py to track server invites and manage
 - Data management: Automatically updates and deletes invitation data as needed.
 - Commands for admins: Allows viewing and managing of invitation stats.
 ## Commands
-<code>
-/invites: Shows the number of invitations for a user.
-/leaderstats: Displays the top inviters on the server.
-</code>
+<code> /invites: Shows the number of invitations for a user.</code>
+<code>/leaderstats: Displays the top inviters on the server.</code>
+
